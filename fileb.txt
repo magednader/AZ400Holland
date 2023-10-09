@@ -1,1 +1,2 @@
 added my file B
+this is a change to file b
