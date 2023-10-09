@@ -1,0 +1,2 @@
+this is the first comment of FileA
+this is another file changes before staging 
